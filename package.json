@@ -1,0 +1,21 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "course for youtube",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Alex Vasy <kitten20811@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
